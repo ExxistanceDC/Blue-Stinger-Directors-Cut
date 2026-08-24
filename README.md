@@ -2,7 +2,7 @@
 
 # Blue Stinger Director's Cut
 
-sdsds
+A hack that ports the English translation of Blue Stinger over to the Japanese version, allowing for player's to experience the original vision for the game, but in English.
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -53,19 +53,19 @@ dfdfdfdf
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>Cyber Doll</td>
+    <td>Blue Stinger</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>Cyber Doll</td>
+    <td>Blue Stinger</td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
-    <td>Betop</td>
+    <td>Climax Graphics</td>
   </tr>
   <tr>
     <td><strong>Publisher</strong></td>
-    <td>I'MAX</td>
+    <td>SEGA</td>
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>
