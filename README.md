@@ -69,7 +69,7 @@ dfdfdfdf
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>
-    <td>1996-08-09</td>
+    <td>1999-03-25 (JP), 1999-08-31 (USA) </td>
   </tr>
  </table>
 </div>
