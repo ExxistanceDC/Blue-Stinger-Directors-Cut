@@ -104,7 +104,7 @@ dfdfdf.
 - dfdfdf
 
 **Special Thanks**
-- dfdfd
+-  <a href="https://www.youtube.com/@HyperBitHero">HyperBitHero</a> (whose video <a href="https://youtu.be/uO-1ChKtBkc">The Lost Cinematography of Blue Stinger</a> inspired me to do this patch)
 
 ## **Release Changelog**
 
