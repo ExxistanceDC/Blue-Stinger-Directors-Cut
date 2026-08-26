@@ -98,11 +98,8 @@ dfdfdf.
 
 ## **Credits**
 
-**Translation**
-- dfdf
-
-**Texture Art**
-- dfdf
+**Hacking**
+- Exxistance
 
 **QA**
 - dfdfdf
