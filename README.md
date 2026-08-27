@@ -2,7 +2,7 @@
 
 # Blue Stinger Director's Cut
 
-A hack that ports the English translation of Blue Stinger over to the Japanese version, letting for players experience the original vision for the game.
+A hack that ports the English translation of Blue Stinger over to the Japanese version, letting players experience the original vision for the game.
 
 ## Table of Contents
 1. [Overview](#Overview)
