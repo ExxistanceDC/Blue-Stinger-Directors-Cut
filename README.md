@@ -20,6 +20,8 @@ A hack that ports the English translation of Blue Stinger over to the Japanese v
 dfdfdfdf
 
 - Menu tooltips now match the English version
+- Item descriptions ported from the English version 
+- Hardcoded JP subs suppresed during in-engine cutscenes
 - New "Director's Cut" title screen texture
 - Cutscenes now match their USA variants with no hardcoded JP subs
 - Opening movie recut to feature "SEGA Presents" logo
