@@ -24,7 +24,7 @@ dfdfdfdf
 - Hardcoded JP subs suppresed during in-engine cutscenes
 - New "Director's Cut" title screen texture
 - Cutscenes now match their USA variants with no hardcoded JP subs
-- Opening movie recut to feature "SEGA Presents" logo
+- Opening movie recut to feature "SEGA Presents" logo (aka de-Activisioning)
 
 
 ## **Screenshots**
