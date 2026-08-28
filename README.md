@@ -17,7 +17,13 @@ A hack that ports the English translation of Blue Stinger over to the Japanese v
 
 ## **Overview**
 
-dfdfdfdf
+Blue Stinger went through a substantial camera rework prior to its overseas release, purportedly because Activision thought that the fixed camera angles of the Japanese original (ala Resident Evil) were not exciting enough for a next-gen game. As a result, the overseas release had an auto-centering third-person camera, which 
+
+YouTuber **HyperBitHero** detailed this better than I possibly could in their video <a href="https://youtu.be/uO-1ChKtBkc">The Lost Cinematography of Blue Stinger.</a> It was the inspiration for me attempting this patch, so I highly encourage you to give it a view.
+
+The most realistic path forward for this patch was porting the English translation to the JP version as the code changes are much less invasive than porting the JP camera system to the overseas version. (Not to mention that being way beyond my skill level.)
+
+To that end, I've made the following changes: 
 
 - Menu tooltips now match the English version
 - Item descriptions ported from the English version 
