@@ -118,7 +118,7 @@ dfdfdf.
 
 ## **Release Changelog**
 
-- **Version 1.0. (xxxxx/2026)**
+- **Version 1.0 (xxxxx/2026)**
   - Initial release
 
 
