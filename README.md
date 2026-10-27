@@ -31,7 +31,7 @@ To that end, I've made the following changes:
 - New "Director's Cut" title screen texture
 - Cutscenes now match their English variants with no hardcoded JP subs
 - Opening movie recut to feature "SEGA Presents" logo (aka de-Activisioning)
-- Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the hotel in-game was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
+- Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
 
 
 ## **Screenshots**
