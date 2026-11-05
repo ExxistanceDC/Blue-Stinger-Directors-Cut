@@ -30,8 +30,9 @@ To that end, I've made the following changes:
 - Hardcoded JP subs suppresed during in-engine cutscenes
 - New "Director's Cut" title screen texture
 - Cutscenes now match their English variants with no hardcoded JP subs
-- Opening movie recut to feature "SEGA Presents" logo (aka de-Activisioning)
+- Opening movie recut to feature "SEGA Presents" logo as well as the ending (aka de-Activisioning)
 - Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
+- New Infinite Health and Infinite Ammo options in the Options Menu (aka "Dad Mode")
 
 
 ## **Screenshots**
