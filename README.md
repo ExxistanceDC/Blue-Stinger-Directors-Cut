@@ -40,26 +40,22 @@ To that end, I've made the following changes:
 
 <!-- Row 1 -->
 <p>
-  <img width="500" alt="Choose_Professional" src="https://github.com/user-attachments/assets/a9b90e04-88f5-4aea-8b7d-22233bbed9fe" />
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/264b8373-07ea-443f-b96e-50940e9ae651" />
+  <img width="900" src="https://github.com/user-attachments/assets/0030d639-88bd-4453-9ade-ee64ccbf998e" />
 </p>
 
 <!-- Row 2 -->
 <p>
-  <img width="500" alt="Choose_Professional" src="https://github.com/user-attachments/assets/1d7b32d9-c80d-4b94-bc78-8f9f3ece2e65" />
-  <img width="500" alt="Gameplay_screenshot" src="https://github.com/user-attachments/assets/2ab17fe0-1d9f-4c31-aedd-f5e80cca1e8d" />    
+   <img width="900" src="https://github.com/user-attachments/assets/4341a604-f38c-43dc-9950-08b1a1f26218" />
 </p>
 
 <!-- Row 3 -->
 <p>
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/c09c36dd-bc4f-42ea-bd08-df76f5ae6e9c" />
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/11b8c1f2-5e0a-44cc-b73c-cf0f13a4ca13" />
+  <img width="900" src="https://github.com/user-attachments/assets/4a487d2a-df4e-414c-ac77-2bde0bf32e19" />
 </p>
 
 <!-- Row 4 -->
 <p>
-  <img width="500" alt="Choose_Professional" src="https://github.com/user-attachments/assets/2a344806-8b94-4c5d-b522-e24449898ae2" />
-  <img width="500" alt="Title Screen" src="https://github.com/user-attachments/assets/1a36b523-fa46-4b9d-8038-28ddc5b107d4" />    
+  <img width="900" src="https://github.com/user-attachments/assets/307526e0-a4e0-403a-b4bd-126a64700457" /> 
 </p>
 
 ## **About the Game**
