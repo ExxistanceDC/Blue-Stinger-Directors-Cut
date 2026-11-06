@@ -51,7 +51,7 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 
 <!-- Row 2 -->
 <p>
-   <img width="900"src="https://github.com/user-attachments/assets/e269e358-648b-4899-8648-83ed0b49f1f2" /> 
+  <img width="900" src="https://github.com/user-attachments/assets/05462518-ec36-44a9-a53d-9091c17c71e6" /> 
 </p>
 
 <!-- Row 3 -->
