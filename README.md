@@ -117,6 +117,9 @@ To that end, I've made the following changes:
 **Hacking**
 - Exxistance
 
+**Textures/Video Editing**
+- Exxistance (video editing... 😩)
+
 **QA**
 - rasputin3000
 - Exxistance
