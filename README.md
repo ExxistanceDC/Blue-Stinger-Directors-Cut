@@ -1,4 +1,7 @@
- <div align="center"> <img src="https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a" />
+ <div align="center"> 
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35a42079-f15d-4c15-b961-a684e366d46d">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a">  
+   <img src="https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a" />
 </div>
 
 # Blue Stinger Director's Cut
