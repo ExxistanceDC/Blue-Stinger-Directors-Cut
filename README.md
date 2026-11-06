@@ -1,4 +1,5 @@
- <div align="center"><img width="600" alt="Astra_Splash_Cover"  /></div>
+ <div align="center"> <img src="https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a" />
+</div>
 
 # Blue Stinger Director's Cut
 
