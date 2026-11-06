@@ -23,7 +23,7 @@ YouTuber **HyperBitHero** detailed this better than I possibly could in their vi
 
 The most realistic path forward for this patch was porting the English translation to the JP version as the code changes are much less invasive than porting the JP camera system to the overseas version. (Not to mention that being way beyond my skill level.)
 
-In keeping with vision of making a game feel 100% localized, I've made the following changes: 
+In keeping with my vision of making a game feel 100% localized, I've made the following changes: 
 
 - Menu tooltips now match the English version
 - Item descriptions ported from the English version 
