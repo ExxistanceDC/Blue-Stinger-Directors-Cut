@@ -29,6 +29,7 @@ To that end, I've made the following changes:
 - Item descriptions ported from the English version 
 - Hardcoded JP subs suppresed during in-engine cutscenes
 - New "Director's Cut" title screen texture
+- Minor texture editing to make Japanese textures match USA translation (for example, "Labo Town" texture becomes "Lab Town")
 - Cutscenes now match their English variants with no hardcoded JP subs
 - Opening movie recut to feature "SEGA Presents" logo, new Director's Cut logo, as well as the ending recut to remove Activision logo (aka de-Activisioning)
 - Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
@@ -91,11 +92,15 @@ To that end, I've made the following changes:
 
 ## **Patching Instructions**
 
-dfdfdf. 
+<img align="right" width="275" src="https://github.com/user-attachments/assets/8b9ebec7-4b92-45fb-bf2f-01034a56dacc">
 
-### XDelta Instructions ###
-
-1. dfdfdf
+1. Download <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> (if you don't already have it) 
+1. Select the **'Apply Patch'** tab
+1. Click **'Source disc image'** to open the source disc image.
+1. Click **'DCP patch file'** to locate and open the <kbd>Blue_Stinger_Directors_Cut_Exxistance_v1.0.dcp</kbd> DCP patch file.
+1. Click **'Patched disc image output folder'** to select where you want to save the patched GDI
+1. Click **'Apply Patch'** to generate the patched GDI, which will be saved in the folder from which the application is launched.
+1. Once patching it complete, you can close the application. (Or just sit and admire how beautiful the v2.0 version looks.)
 
 **--> Important! <--**
 - dfdf
