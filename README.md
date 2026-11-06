@@ -27,7 +27,7 @@ To that end, I've made the following changes:
 
 - Menu tooltips now match the English version
 - Item descriptions ported from the English version 
-- Hardcoded JP subs suppresed during in-engine cutscenes
+- Hardcoded JP subs suppressed during in-engine cutscenes
 - New "Director's Cut" title screen texture
 - Minor texture editing to make Japanese textures match USA translation (for example, "Labo Town" texture becomes "Lab Town")
 - Cutscenes now match their English variants with no hardcoded JP subs
