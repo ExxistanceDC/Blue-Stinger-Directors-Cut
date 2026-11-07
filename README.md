@@ -39,7 +39,10 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 - Cutscenes now match their English variants with no hardcoded JP subs
 - Opening movie recut to feature "SEGA Presents" logo, new Director's Cut logo, as well as the ending recut to remove Activision logo (aka de-Activisioning)
 - Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
-- New Infinite Health and Infinite Ammo options in the Options Menu (aka "Dad Mode")
+
+And new enhancements:
+- Infinite Health and Infinite Ammo options (aka "Dad Mode")
+- **Why choose?** Pick from JP or USA camera angles on the fly!
 
 
 ## **Screenshots**
