@@ -43,7 +43,7 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 And new enhancements:
 - Infinite Health and Infinite Ammo options (aka "Dad Mode")
 - **Why choose?** Pick from JP or USA camera angles on the fly!
-- New **FREE** camera! For the first time ever, true dual analog camera movement in Blue Stinger (if using an emulator or controller that supports a second Dreamcast analog stick)
+- **New FREE camera!** For the first time ever, true dual analog camera movement in Blue Stinger (if using an emulator or controller that supports a second Dreamcast analog stick)
 
 
 ## **Screenshots**
