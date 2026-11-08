@@ -114,13 +114,8 @@ But that's not all! New enhancements aim to make this the ultimate Blue Stinger 
 1. Once patching it complete, you can close the application. (Or just sit and admire how beautiful the v2.0 version looks.)
 
 **--> Important! <--**
-- dfdf
-
-## Helpful Game Tips ##
-
-- dsfasdfd
-
-
+- Tested with release <kbd>Blue Stinger v1.006 (1999)(Sega)(JP)[!]</kbd>
+- Tested on emulators Flycast and Redream, and real hardware via GDEMU
 
 ## **Credits**
 
@@ -136,6 +131,10 @@ But that's not all! New enhancements aim to make this the ultimate Blue Stinger 
 
 **Special Thanks**
 -  <a href="https://www.youtube.com/@HyperBitHero">HyperBitHero</a> (whose video <a href="https://youtu.be/uO-1ChKtBkc">The Lost Cinematography of Blue Stinger</a> inspired me to do this patch)
+
+## **Reporting Issues**
+
+If you find an issue, please [submit a new issue here](xxxxxxxxxxxxx). 
 
 ## **Release Changelog**
 
