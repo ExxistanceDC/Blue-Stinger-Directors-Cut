@@ -42,7 +42,7 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 
 But that's not all! New enhancements aim to make this the ultimate Blue Stinger experience:
 - **Why choose?** Pick from the original fixed camera angles of the Japanese version or swap to the third person USA camera version on the fly!
-- **New FREE camera!** For the first time ever, true dual analog camera movement in Blue Stinger (if using any emulator or device that supports a second Dreamcast analog stick)
+- **New FREE camera!** For the first time ever, true dual analog camera movement in Blue Stinger (if using a Dreamcast emulator or device that supports a second Dreamcast analog stick)
 - **Just want to experience the story?** Infinite Health and Infinite Ammo options (aka "Dad Mode")
 
 
