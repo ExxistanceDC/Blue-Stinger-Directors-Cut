@@ -40,10 +40,10 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 - Opening movie recut to feature "SEGA Presents" logo, new Director's Cut logo, as well as the ending recut to remove Activision logo (aka de-Activisioning)
 - Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
 
-And new enhancements:
-- Infinite Health and Infinite Ammo options (aka "Dad Mode")
+But that's not all! New enhancements:
 - **Why choose?** Pick from JP or USA camera angles on the fly!
 - **New FREE camera!** For the first time ever, true dual analog camera movement in Blue Stinger (if using an emulator or controller that supports a second Dreamcast analog stick)
+- **Just want to experience the story?** Infinite Health and Infinite Ammo options (aka "Dad Mode")
 
 
 ## **Screenshots**
@@ -65,7 +65,7 @@ And new enhancements:
 
 <!-- Row 4 -->
 <p>
- <img width="900" src="https://github.com/user-attachments/assets/75c712bf-ce19-420e-839c-493da1e49a05" />
+ <img width="900" src="https://github.com/user-attachments/assets/bd6829f7-5430-44c6-b5af-f9d2521c31d0" />
 </p>
 
 <!-- Row 5 -->
