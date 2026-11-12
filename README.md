@@ -6,9 +6,9 @@
   </picture>
 </div>
 
-# Blue Stinger Director's Cut
+# Blue Stinger Director's Cut (Exxistance Take)
 
-A hack that ports the English translation of Blue Stinger over to the Japanese version, letting players experience the original vision for the game.
+A hack that ports the English translation of Blue Stinger over to the Japanese version, letting players experience the original vision for the game. Plus, a little something extra to make this the ultimate version of Blue Stinger. 
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -45,6 +45,7 @@ But that's not all! New enhancements aim to make this the ultimate Blue Stinger 
 - **New FREE camera!** For the first time ever, true dual analog camera movement in Blue Stinger (if using a Dreamcast emulator or device that supports a second Dreamcast analog stick)
 - **Just want to experience the story?** Infinite Health and Infinite Ammo options (aka "Dad Mode")
 
+If you feel like you're having deju vu, don't fret. It seems that <a href="https://github.com/espouaisso/Blue-Stinger-Directors-Cut-Patcher">great minds think alike</a>. Worth checking out espouaisso's patch if you're interested in a French language take.
 
 ## **Screenshots**
 
