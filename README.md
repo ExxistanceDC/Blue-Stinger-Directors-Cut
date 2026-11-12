@@ -40,7 +40,7 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 - Opening movie recut to feature "SEGA Presents" logo, new Director's Cut logo, as well as the ending recut to remove Activision logo (aka de-Activisioning)
 - Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
 
-But that's not all! New enhancements aim to make this the ultimate Blue Stinger experience:
+**But wait, that's not all!** New enhancements aim to make this the ultimate Blue Stinger experience:
 - **Why choose?** Pick from the original fixed camera angles of the Japanese version or swap to the third person USA camera version on the fly!
 - **New FREE camera!** For the first time ever, true dual analog camera movement in Blue Stinger (if using a Dreamcast emulator or device that supports a second Dreamcast analog stick)
 - **Just want to experience the story?** Infinite Health and Infinite Ammo options (aka "Dad Mode")
