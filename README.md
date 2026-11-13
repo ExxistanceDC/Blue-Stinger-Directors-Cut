@@ -39,6 +39,7 @@ In keeping with my vision of making a game feel 100% localized, I've made the fo
 - Cutscenes now match their English variants with no hardcoded JP subs
 - Opening movie recut to feature "SEGA Presents" logo, new Director's Cut logo, as well as the ending recut to remove Activision logo (aka de-Activisioning)
 - Minor improvements to the English USA translation, like removing minor legal "CYA" edits. (For example, the in-game hotel name was changed from "Hillton" to "Maple" in the USA version, presumably to avoid any association with Hilton Hotels. The JP original is now restored.)
+- Minor improvements to analog control so that controlling Eliot feels smoother at full diagonal tilt
 
 **But wait, that's not all!** New enhancements aim to make this the ultimate Blue Stinger experience:
 - **Why choose?** Pick from the original fixed camera angles of the Japanese version or swap to the third person USA camera version on the fly!
