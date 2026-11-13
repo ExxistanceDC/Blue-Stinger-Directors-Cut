@@ -136,7 +136,7 @@ If you feel like you're having deju vu, don't fret. It seems that <a href="https
 
 ## **Reporting Issues**
 
-If you find an issue, please [submit a new issue here](xxxxxxxxxxxxx). 
+If you find an issue, please [submit a new issue here](https://github.com/ExxistanceDC/Blue-Stinger-Directors-Cut/issues/new). 
 
 ## **Release Changelog**
 
