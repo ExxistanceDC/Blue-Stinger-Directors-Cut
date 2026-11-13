@@ -139,7 +139,7 @@ If you find an issue, please [submit a new issue here](xxxxxxxxxxxxx).
 
 ## **Release Changelog**
 
-- **Version 1.0 (xxxxx/2026)**
+- **Version 1.0 (11/13/2026)**
   - Initial release
 
 
