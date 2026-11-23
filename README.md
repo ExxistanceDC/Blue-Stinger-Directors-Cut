@@ -141,8 +141,8 @@ If you find an issue, please [submit a new issue here](https://github.com/Exxist
 ## **Release Changelog**
 
 - **Version 1.0.1 (11/21/2026)**
-  - Fixed an issue with USA camera mode where you character would not lock in place when using the L trigger to enter first-person mode.
-  - Applied same functionally to dual analog mode (aka "FREE" camera).
+  - Fixed an issue with USA camera mode where your character would not lock in place when using the L trigger to enter first-person mode.
+  - Applied same functionality to dual analog mode (aka "FREE" camera).
 
 - **Version 1.0 (11/13/2026)**
   - Initial release
